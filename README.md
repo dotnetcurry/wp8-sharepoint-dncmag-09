@@ -8,4 +8,4 @@ A walkthrough of how we can build a Windows Phone application which can easily i
 * Date: November, 2013
 * Version: 0.0.1
 * Website: [DNC Magazine](http://www.dncmagazine.com)
-* GitHub: [DNC Magazine on Github](https://github.com/dotnetcurry/wp8-moviequotes-dncmag-08)
+* GitHub: [DNC Magazine on Github](https://github.com/dotnetcurry/wp8-sharepoint-dncmag-09)
